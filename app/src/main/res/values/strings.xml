@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ciclo PDM</string>
+    <string name="nome">Nome</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="email">Email</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="telefone">Telefone</string>
+    <string name="onCreateMsg">onCreate: Iniciando ciclo Completo</string>
+    <string name="onStartMsg">onStart: Iniciando ciclo Visível</string>
+    <string name="onResumeMsg">onResume: Iniciando ciclo em Primeiro Plano</string>
+    <string name="onPauseMsg">onPause: Finalizando ciclo em Primeiro Plano</string>
+    <string name="onStopMsg">onStop: Finalizando ciclo Visível</string>
+    <string name="onDestroyMsg">onDestroy: Finalizando ciclo Completo</string>
+    <string name="onRestartMsg">onRestart: Preparando para chamar onStart</string>
+</resources>
